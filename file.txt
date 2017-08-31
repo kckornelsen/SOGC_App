@@ -1,0 +1,9 @@
+No errors
+No warnings
+3 ms
+data source=metars
+3 results
+raw_text,station_id,observation_time,latitude,longitude,temp_c,dewpoint_c,wind_dir_degrees,wind_speed_kt,wind_gust_kt,visibility_statute_mi,altim_in_hg,sea_level_pressure_mb,corrected,auto,auto_station,maintenance_indicator_on,no_signal,lightning_sensor_off,freezing_rain_sensor_off,present_weather_sensor_off,wx_string,sky_cover,cloud_base_ft_agl,sky_cover,cloud_base_ft_agl,sky_cover,cloud_base_ft_agl,sky_cover,cloud_base_ft_agl,flight_category,three_hr_pressure_tendency_mb,maxT_c,minT_c,maxT24hr_c,minT24hr_c,precip_in,pcp3hr_in,pcp6hr_in,pcp24hr_in,snow_in,vert_vis_ft,metar_type,elevation_m
+KDEN 311253Z 20009KT 10SM FEW140 BKN220 17/08 A3016 RMK AO2 SLP136 T01720078,KDEN,2017-08-31T12:53:00Z,39.85,-104.65,17.2,7.8,200,9,,10.0,30.159449,1013.6,,,TRUE,,,,,,,FEW,14000,BKN,22000,,,,,VFR,,,,,,,,,,,,METAR,1640.0
+KDEN 311153Z 18012KT 10SM FEW140 SCT220 17/07 A3014 RMK AO2 SLP131 T01670072 10200 20161 52004 $,KDEN,2017-08-31T11:53:00Z,39.85,-104.65,16.7,7.2,180,12,,10.0,30.138779,1013.1,,,TRUE,TRUE,,,,,,FEW,14000,SCT,22000,,,,,VFR,0.4,20.0,16.1,,,,,,,,,SPECI,1640.0
+KDEN 311053Z 20007KT 10SM SCT140 17/08 A3013 RMK AO2 SLP125 T01720078 $,KDEN,2017-08-31T10:53:00Z,39.85,-104.65,17.2,7.8,200,7,,10.0,30.129921,1012.5,,,TRUE,TRUE,,,,,,SCT,14000,,,,,,,VFR,,,,,,,,,,,,SPECI,1640.0
