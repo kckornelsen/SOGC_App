@@ -8,7 +8,7 @@ metar_adds = """https://aviationweather.gov/adds/dataserver_current/httpparam?da
 
 taf_adds = """https://www.aviationweather.gov/adds/dataserver_current/httpparam?datasource=tafs&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=1&stationString={}"""
 
-with open('reports.txt','w') as f:
+with open('index.html','w') as f:
 
     for i in stations:
         
@@ -17,14 +17,14 @@ with open('reports.txt','w') as f:
         soup = BeautifulSoup(content)
         items = soup.findAll('raw_text')
         for t in items:
-            f.write(t.string + '\n\n')
+            f.write(t.string + '<br>\n')
         
 
         response = urllib2.urlopen(taf_adds.format(i,),timeout = 5)
         content = response.read()
         soup = BeautifulSoup(content)
         f.write(soup.find('raw_text').string)
-        f.write('\n\n')
+        f.write('<br>\n')
 
         
 
