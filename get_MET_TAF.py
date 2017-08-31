@@ -12,17 +12,13 @@ with open('reports.txt','w') as f:
 
     for i in stations:
         
-        response = urllib2.urlopen(metar_adds.format(i,str(1)),timeout = 5)
-        content = response.read()
-        soup = BeautifulSoup(content)
-        f.write(soup.find('raw_text').string)
-        f.write('\n\n')
-
         response = urllib2.urlopen(metar_adds.format(i,str(2)),timeout = 5)
         content = response.read()
         soup = BeautifulSoup(content)
-        f.write(soup.find('raw_text').string)
-        f.write('\n\n')
+        items = soup.findAll('raw_text')
+        for t in items:
+            f.write(t.string + '\n\n')
+        
 
         response = urllib2.urlopen(taf_adds.format(i,),timeout = 5)
         content = response.read()
