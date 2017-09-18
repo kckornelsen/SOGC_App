@@ -1,0 +1,1 @@
+call "update_AvData.bat" > outfile.txt
