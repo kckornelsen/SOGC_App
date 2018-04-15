@@ -1,4 +1,4 @@
-@echo Started %date% %time% >> outfile2.txt
-call "update_AvData.bat" >> outfile2.txt
+@echo Started %date% %time% >> METLog.txt
+call "update_AvData.bat" >> MetLog.txt
 @echo Completed: %date% %time%
 @echo &&

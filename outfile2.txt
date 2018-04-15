@@ -8750,3 +8750,161 @@ C:\Users\kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index"
  rewrite index.html (81%)
 
 C:\Users\kurt\Documents\GitHub\SOGC_App>git push 
+Started 03-Apr-2018 20:25:43.21 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master 0af051c] Update Index
+ 1 file changed, 2 insertions(+), 22 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 03-Apr-2018 20:27:36.53 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master 8be6d26] Update Index
+ 1 file changed, 21 insertions(+), 2 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 03-Apr-2018 20:50:32.14 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master b2019ca] Update Index
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 03-Apr-2018 20:51:05.71 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master a5ee176] Update Index
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 03-Apr-2018 20:56:05.77 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master 7d549ef] Update Index
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 03-Apr-2018 21:01:05.87 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master e3fb33f] Update Index
+ 1 file changed, 4 insertions(+), 9 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 06-Apr-2018  7:05:02.84 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master 9c48b50] Update Index
+ 1 file changed, 24 insertions(+), 39 deletions(-)
+ rewrite index.html (97%)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 06-Apr-2018 20:29:12.75 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master 97e8a10] Update Index
+ 1 file changed, 44 insertions(+), 24 deletions(-)
+ rewrite index.html (96%)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 06-Apr-2018 21:05:03.37 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master 00637c7] Update Index
+ 1 file changed, 9 insertions(+), 13 deletions(-)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 06-Apr-2018 22:05:05.56 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master ae3e921] Update Index
+ 1 file changed, 32 insertions(+), 40 deletions(-)
+ rewrite index.html (64%)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
+Started 07-Apr-2018  6:16:36.90 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>REM File to get new data for METARS and TAF and push it to the GitHub Pages 
+ECHO is on.
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>python get_MET_TAF.py 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git add index.html 
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git commit -m "Update Index" 
+[master c157c33] Update Index
+ 1 file changed, 28 insertions(+), 32 deletions(-)
+ rewrite index.html (95%)
+
+C:\Users\Kurt\Documents\GitHub\SOGC_App>git push 
